@@ -64,3 +64,4 @@ if($_XPOST)
 	<input type="submit">
 </form>
 ```
+<img src="https://zupimages.net/up/22/18/t3zw.png">
